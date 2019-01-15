@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 u wirjed as a manual and automation tester
 i need sometime to learn but i can do it
+=======
+
+>>>>>>> 521e901454585d5346c05d2f842e9400a313846b
